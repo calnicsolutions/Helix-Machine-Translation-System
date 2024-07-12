@@ -13,7 +13,7 @@ Download or Clone system repository from git.
 -----------------------------------------------------
 Use below command to clone system setup from git repository.
 
-git clone https://github.com/calnicsolutions/Helix-Machine-Translation-System.git
+git clone git@github.com:avinashksingh/Helix-Machine-Translation-System.git
 
 ## Installation
 
